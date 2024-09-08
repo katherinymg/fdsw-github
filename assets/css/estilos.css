@@ -11,6 +11,14 @@ body {
   background-position: left;
 }
 
+.botones >button {
+background-color: black;
+}
+
+.navbar-brand > img {
+  height: 35px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
